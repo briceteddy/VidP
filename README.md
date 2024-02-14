@@ -28,7 +28,7 @@ vidP est un projet qui permet de créer un pipeline de traitement automatique de
 
 ## Badges
 
-![License: MIT](https://stackoverflow.com/questions/5922882/what-file-uses-md-extension-and-how-should-i-edit-them) ![Docker](https://stackoverflow.com/questions/75964216/github-how-to-change-font-size-in-markdown-file) ![AWS](https://www.markdownguide.org/basic-syntax/)
+ ![Docker](https://stackoverflow.com/questions/75964216/github-how-to-change-font-size-in-markdown-file) ![AWS](https://www.markdownguide.org/basic-syntax/)
 
 # Conditions préalables et limitations
 
@@ -119,7 +119,7 @@ Pour supprimer l'infrastructure et le flux vidéo, utilisez ces deux commandes d
 * Si vous souhaitez contribuer à ce projet, vous pouvez créer une branche, faire vos modifications et soumettre une pull request.
 * Vous pouvez également signaler les bugs ou proposer des améliorations en créant une issue.
 * Merci de respecter le code de conduite et les conventions de codage du projet.
-* Ce projet est sous licence MIT
+
 
 
 # Difficultes rencontrees

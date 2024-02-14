@@ -64,7 +64,7 @@ Il ne peut pas être utilisé sous sa forme actuelle dans les déploiements de p
 
 ### Architecture cible
 
-![architecture cible](image/save.png.png)
+![architecture cible](image/save.png)
 
 L'utilisateur crée un flux vidéo Kinesis, télécharge une vidéo et envoie un message JSON contenant des détails sur le flux vidéo Kinesis d'entrée et le bucket S3 de sortie vers une file d'attente SQS. AWS Fargate, qui exécute l'application principale dans un conteneur, extrait le message de la file d'attente SQS et commence à extraire les cadres. Chaque image est enregistrée dans un fichier image et stockée dans le compartiment S3 cible.
 

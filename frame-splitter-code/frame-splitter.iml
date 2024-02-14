@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:core:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:cdk-cloud-assembly-schema:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:cdk-cx-api:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:cdk-region-info:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.constructs:constructs:3.2.116" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.jsii:jsii-runtime:1.17.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.4" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.4" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:19.0.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.annotation:javax.annotation-api:1.3.2" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:ecs:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:cdk-assets:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:applicationautoscaling:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:autoscaling-common:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:autoscaling:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:autoscaling-hooktargets:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:sns-subscriptions:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:certificatemanager:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:cloudwatch:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:ecr:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:ecr-assets:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:elasticloadbalancing:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:elasticloadbalancingv2:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:iam:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:kms:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:logs:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:route53:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:route53-targets:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:apigateway:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:apigatewayv2:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:cloudfront:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:cognito:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:s3-assets:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:secretsmanager:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:sam:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:servicediscovery:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:sns:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:sqs:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:ssm:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:ecs-patterns:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:events:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:events-targets:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:batch:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:codebuild:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:codecommit:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:codepipeline:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:kinesis:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:kinesisfirehose:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:stepfunctions:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:cdk-customresources:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:cloudformation:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:s3:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:ec2:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:lambda:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:codeguruprofiler:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awscdk:efs:1.77.0" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-lambda-java-core:1.2.1" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:kinesisvideo:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:aws-json-protocol:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:protocol-core:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:sdk-core:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:auth:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.eventstream:eventstream:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:http-client-spi:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:regions:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.4" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:annotations:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:utils:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:aws-core:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:metrics-spi:2.15.33" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: software.amazon.awssdk:apache-client:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.13" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.11" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.11" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: software.amazon.awssdk:netty-nio-client:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-http:4.1.53.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-codec-http2:4.1.53.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec:4.1.53.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport:4.1.53.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver:4.1.53.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.53.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.1.53.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-handler:4.1.53.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.53.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-transport-native-unix-common:4.1.53.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.typesafe.netty:netty-reactive-streams-http:2.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.typesafe.netty:netty-reactive-streams:2.0.4" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:sqs:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:aws-query-protocol:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:s3:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:aws-xml-protocol:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:arns:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:profiles:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:kinesisvideomedia:2.15.33" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:amazon-kinesis-video-streams-parser-library:1.0.15" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-rekognition:1.11.487" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-core:1.11.487" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.ion:ion-java:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.6.7" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.8.1" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:jmespath-java:1.11.487" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-kinesisvideo:1.11.487" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-kinesis:1.11.487" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-dynamodb:1.11.487" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-s3:1.11.487" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-kms:1.11.487" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:amazon-kinesis-video-streams-producer-sdk-java:1.8.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.inject:guice:4.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:21.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:annotations:2.0.3" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.2" level="project" />
+    <orderEntry type="library" name="Maven: javax.measure:jsr-275:0.9.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.inject.extensions:guice-multibindings:4.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:amazon-kinesis-client:1.9.3" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-cloudwatch:1.11.438" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-lambda-java-events:1.2.0" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-sns:1.11.942" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-sqs:1.11.942" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-cognitoidentity:1.11.942" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-lambda-java-log4j:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
+    <orderEntry type="library" name="Maven: org.jcodec:jcodec:0.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jcodec:jcodec-javase:0.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.6" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.10" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: commons-cli:commons-cli:1.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.13.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:3.18.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-core:3.6.28" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy:1.10.18" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy-agent:1.10.18" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.objenesis:objenesis:3.1" level="project" />
+  </component>
+</module>
